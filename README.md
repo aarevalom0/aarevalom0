@@ -40,6 +40,3 @@ I am a passionate student in the final semesters of Biomedical Engineering and S
 
 For a detailed list of my projects and contributions, please visit my [GitHub profile](https://github.com/aarevalom0).
 
----
-
-This CV is regularly updated. For the most recent version, please check the commit history of this repository.
