@@ -1,4 +1,4 @@
-# Anderson Arevalo Mendoza - Curriculum Vitae
+# Anderson Arevalo Mendoza
 
 ## About Me
 
