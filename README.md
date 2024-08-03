@@ -1,4 +1,4 @@
-# [Anderson Arevalo Mendoza] (https://www.linkedin.com/in/aarevalom)
+# [Anderson Arevalo Mendoza](https://www.linkedin.com/in/aarevalom)
 
 ## About Me
 
