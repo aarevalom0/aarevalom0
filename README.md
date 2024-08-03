@@ -35,6 +35,7 @@ I am a passionate student in the final semesters of Biomedical Engineering and S
 
 - **Initiating and Planning Projects** - University of California, Irvine (April 25, 2024)
 - **Digital Technologies Challenge Hackday 2024** - Indra Company (April 15, 2024)
+- [**Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DE898215A524C59F039098F767733EFDC3BD8F190372EC8E71C17CF0D4E3B397) Oracle (July 29, 2024)
 
 ## Projects
 
