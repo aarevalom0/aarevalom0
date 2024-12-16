@@ -1,5 +1,5 @@
 <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Profile.jpeg" alt="profile">
-
+<body bgcolor="FFCECB"> 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Anderson!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
@@ -53,8 +53,8 @@ For a detailed list of my projects and contributions, please visit my [GitHub pr
 </div>
 
 </br>
-<h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarevalom0&label=Profile%20views&color=0e75b6&style=flat" alt="aarevalom0" /> </p>
 
@@ -74,4 +74,6 @@ For a detailed list of my projects and contributions, please visit my [GitHub pr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarevalom0&show_icons=true&locale=en" alt="aarevalom0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarevalom0&" alt="aarevalom0" /></p>
+
+
+</body>
