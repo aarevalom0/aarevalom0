@@ -1,3 +1,5 @@
+<img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Profile.jpeg" alt="profile">
+
 # [Anderson Arevalo Mendoza](https://www.linkedin.com/in/aarevalom)
 
 ## About Me
