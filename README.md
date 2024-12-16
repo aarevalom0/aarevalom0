@@ -1,5 +1,8 @@
 <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Profile.jpeg" alt="profile">
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Anderson!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
+</h1>
 # [Anderson Arevalo Mendoza](https://www.linkedin.com/in/aarevalom)
 
 ## About Me
@@ -43,3 +46,10 @@ I am a passionate student in the final semesters of Biomedical Engineering and S
 
 For a detailed list of my projects and contributions, please visit my [GitHub profile](https://github.com/aarevalom0).
 
+</br>
+   <div>      
+  <img height="200" width="450" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarevalom0&show_icons=true&theme=gruvbox"/>
+  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalom0&theme=gruvbox&layout=compact"/>
+</div>
+
+</br>
