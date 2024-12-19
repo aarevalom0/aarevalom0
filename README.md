@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Anderson!+🦈;Nice+to+meet+you!+🙂&center=true&size=30&color=29d2a">
 </h1>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aarevalom0) ![Profile](https://komarev.com/ghpvc/?username=aarevalom0&label=Profile%20views&color=0e75b6&style=flat) [![GitHub followers](https://img.shields.io/github/followers/aarevalom0.svg?style=flat&label=Follow)](https://github.com/laxmena?tab=followers) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aarevalom0) ![Profile](https://komarev.com/ghpvc/?username=aarevalom0&label=Profile%20views&color=0e75b6&style=flat) [![GitHub followers](https://img.shields.io/github/followers/aarevalom0.svg?style=flat&label=Follow)](https://github.com/aarevalom0?tab=followers) 
 
 
 I am a passionate student in the final semesters of Biomedical Engineering and Systems Engineering, with a keen interest in innovation and continuous development in these rapidly evolving fields. I have solid knowledge in machine learning and data science, as well as experience in software development. This combination allows me to approach complex problems with advanced technological solutions.
