@@ -48,8 +48,8 @@ For a detailed list of my projects and contributions, please visit my [GitHub pr
 <h2>GitHub Stats</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img height="200"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarevalom0&show_icons=true&theme=gruvbox">
-  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalom0&theme=gruvbox&layout=donut">
+  <img height="180"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=aarevalom0&show_icons=true&theme=gruvbox">
+  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarevalom0&theme=gruvbox&layout=donut">
 </div>
 
 ## Connect with me:
@@ -65,11 +65,11 @@ For a detailed list of my projects and contributions, please visit my [GitHub pr
     <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/Logo-Linkedin.png" alt="LinkedIn" height="60" width="120" />
   </a>
   <a href="https://kaggle.com/aarevalom7" target="_blank">
-    <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/Logo-Kaggle.png" alt="Kaggle" height="40" width="40" />
+    <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/Logo-Kaggle.png" alt="Kaggle" height="60" width="120" />
   </a>
 
   <a href="mailto:a.arevalom@outlook.com" target="_blank">
-    <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/Logo-Email.png" alt="Email" height="40" width="40" />
+    <img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/Logo-Email.png" alt="Email" height="60" width="120" />
   </a>
   
 </div>
