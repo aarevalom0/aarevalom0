@@ -1,4 +1,4 @@
-<img src="https://github.com/aarevalom0/aarevalom0.github.io/blob/main/Images/header.png" alt="header">
+<img src="Images\Professional Profile.svg" alt="header">
 
 <h1 align="center">
     <a ><img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&center=true&width=435&lines=Welcome+to+my+profile!;Exploring+Technology+and+Innovation!;Developing+impactful+and+transformative+results." alt="Typing SVG" /></a>
